@@ -1,4 +1,4 @@
-temperature = float(input("Enter the temperature in Celsius: "))
+temperature = int(input("Enter the temperature in Celsius: "))
 
 if temperature > 30:
     print("It's a hot summer day! Grab some ice cream.")
